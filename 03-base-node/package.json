@@ -1,0 +1,14 @@
+{
+  "name": "03-base-node",
+  "version": "0.0.1",
+  "description": "Simple example about Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
