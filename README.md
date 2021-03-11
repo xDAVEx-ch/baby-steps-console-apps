@@ -1,2 +1,3 @@
-# multiplication-table
-Just a simple practice of NodeJs console and Yargs package
+# NodeJs initial training
+
+Simple console apps to start my journey in NodeJs world.
